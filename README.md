@@ -43,5 +43,7 @@ AI was used to:
 -Explain concepts related to variadic functions and format parsing.
 -Help identify edge cases and debugging strategies.
 -Improve documentation and code clarity.
--All core logic and implementations were written manually to ensure a strong understanding of C programming principles.
+-All core logic and implementations were written manually to ensure a strong understanding of C programming principles.  
+
+
 
